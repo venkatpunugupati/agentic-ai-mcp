@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "venkat-tools": {
+      "type": "stdio",
+      "command": "/Users/venkatpunugupati/Desktop/AI_Python/langgraph/.venv/bin/python",
+      "args": ["/Users/venkatpunugupati/Desktop/AI_Python_mcp/mcp_server.py"]
+    }
+  }
+}
